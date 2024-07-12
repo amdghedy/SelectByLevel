@@ -1,0 +1,6 @@
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\bin\Debug\SelectByLevel.dll
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\bin\Debug\SelectByLevel.pdb
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\Debug\SelectByLevel.csproj.AssemblyReference.cache
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\Debug\SelectByLevel.csproj.CoreCompileInputs.cache
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\Debug\SelectByLevel.dll
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\Debug\SelectByLevel.pdb

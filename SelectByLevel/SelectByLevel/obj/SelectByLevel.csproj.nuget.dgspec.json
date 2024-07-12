@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\adghedy\\OneDrive\\Desktop\\SelectByLevel\\SelectByLevel\\SelectByLevel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\adghedy\\OneDrive\\Desktop\\SelectByLevel\\SelectByLevel\\SelectByLevel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\adghedy\\OneDrive\\Desktop\\SelectByLevel\\SelectByLevel\\SelectByLevel.csproj",
+        "projectName": "SelectByLevel",
+        "projectPath": "C:\\Users\\adghedy\\OneDrive\\Desktop\\SelectByLevel\\SelectByLevel\\SelectByLevel.csproj",
+        "packagesPath": "C:\\Users\\adghedy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adghedy\\OneDrive\\Desktop\\SelectByLevel\\SelectByLevel\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\adghedy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "CloudinaryDotNet": {
+              "target": "Package",
+              "version": "[1.26.2, )"
+            },
+            "DocumentFormat.OpenXml": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "DocumentFormat.OpenXml.Framework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\bin\x64\Debug\SelectByLevel.dll
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\bin\x64\Debug\SelectByLevel.pdb
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\x64\Debug\SelectByLevel.csproj.CoreCompileInputs.cache
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\x64\Debug\SelectByLevel.dll
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\x64\Debug\SelectByLevel.pdb
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\bin\x64\Debug\CloudinaryDotNet.dll
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\bin\x64\Debug\DocumentFormat.OpenXml.dll
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\bin\x64\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\x64\Debug\SelectByLevel.csproj.AssemblyReference.cache
+C:\Users\adghedy\OneDrive\Desktop\SelectByLevel\SelectByLevel\obj\x64\Debug\SelectByLevel.csproj.CopyComplete
